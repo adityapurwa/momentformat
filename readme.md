@@ -3,6 +3,11 @@
 Tool to play around with moment.js formatting because working
 with date time is hard enough already.
 
+[Try it now](https://momentformat.netlify.app)
+
+<img width="997" alt="image" src="https://user-images.githubusercontent.com/6219895/162676211-065c0142-7b10-4fe4-bccd-7866cdc8b2d8.png">
+
+
 ## License
 
 MIT licensed, see [LICENSE](LICENSE) for more information.
